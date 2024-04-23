@@ -26,5 +26,11 @@ public class Operacion {
         return x-y;
     }
 
- 
+    public  static int multi(int n1, int n2) {
+        return n1*n2;
+    }
+
+    public static double division(double n1, double n2) {
+        return n1/n2;
+    }
 }
